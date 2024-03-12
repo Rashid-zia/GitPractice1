@@ -1,2 +1,2 @@
-# GitPractice1
+# pruebaRep
 First  git practice lab
